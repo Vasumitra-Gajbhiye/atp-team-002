@@ -1,3 +1,6 @@
 # Team
 
-Project name: anirudh's team
+<<<<<<< anirudh/project-name
+
+Project name: vasumitra team
+>>>>>>> main
